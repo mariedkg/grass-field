@@ -1,0 +1,13 @@
+.btn {
+	background-color: rgb(71, 119, 97);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+} 
+
+.btn:hover {
+	background-color: rgb(177, 56, 61);
+}
